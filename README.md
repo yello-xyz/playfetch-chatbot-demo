@@ -16,6 +16,13 @@ yarn dev
 pnpm dev
 ```
 
+Add the following environment variables to `.env.local`:
+
+```
+PLAYFETCH_API_KEY=sk-[...]
+PLAYFETCH_URL=https://playfetch.ai/[...]
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
