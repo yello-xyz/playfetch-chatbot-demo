@@ -1,8 +1,8 @@
-## Play/Fetch Chatbot Demo
+## PlayFetch Chatbot Demo
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and illustrating how to run a simple chatbot with [Play/Fetch](https://playfetch.ai).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and illustrating how to run a simple chatbot with [PlayFetch](https://playfetch.ai).
 
-If you would like to join the waitlist for access to [Play/Fetch](https://playfetch.ai), you can do so [here](https://playfetch.ai). If you would like to get in touch with us directly, please send an email to hello at playfetch dot ai.
+If you would like to join the waitlist for access to [PlayFetch](https://playfetch.ai), you can do so [here](https://playfetch.ai). If you would like to get in touch with us directly, please send an email to hello at playfetch dot ai.
 
 ## Getting Started
 
@@ -29,7 +29,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Learn More
 
-To learn more about [Play/Fetch](https://playfetch.ai), take a look at our [Substack](https://playfetch.substack.com).
+To learn more about [PlayFetch](https://playfetch.ai), take a look at our [Substack](https://playfetch.substack.com).
 
 To learn more about Next.js, take a look at the following resources:
 
